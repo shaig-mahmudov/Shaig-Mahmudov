@@ -9,6 +9,10 @@ I am a passionate **Backend Developer** | **Tech Enthusiast**
 - 💬 Ask me about: If you need anything, do not hesitate to ask someone else.
 - ⚡ Fun fact: I act like I know what I'm doing, but really I'm just Googling errors.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SENIN_KULLANICI_ADIN&layout=compact&theme=radical)
+
+- **Technologies**
+
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
