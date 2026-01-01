@@ -13,7 +13,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shaig-mahmudov&color=blueviolet)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=shaig-mahmudov&theme=radical)
 
 - **Technologies**
 
