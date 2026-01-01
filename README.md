@@ -1,6 +1,6 @@
 ## Hi there 👋! I'm Shaig
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=I+am+a+passionate+**Backend Developer**+|+**Tech+Enthusiast**)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=I+am+a+passionate+Backend+Developer;Tech+Enthusiast)
 
 
 
@@ -12,6 +12,8 @@
 - ⚡ Fun fact: I act like I know what I'm doing, but really I'm just Googling errors.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shaig-mahmudov&color=blueviolet)
+
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shaig-mahmudov&theme=radical)
 
 - **Technologies**
