@@ -9,7 +9,7 @@ I am a passionate **Backend Developer** | **Tech Enthusiast**
 - 💬 Ask me about: If you need anything, do not hesitate to ask someone else.
 - ⚡ Fun fact: I act like I know what I'm doing, but really I'm just Googling errors.
 
-![Profile Views](https://komarev.com/ghpvc/?username=SENIN_KULLANICI_ADIN&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=shaig-mahmudov&color=blueviolet)
 
 - **Technologies**
 
