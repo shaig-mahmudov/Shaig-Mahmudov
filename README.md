@@ -10,6 +10,7 @@ I am a passionate **Backend Developer** | **Tech Enthusiast**
 - ⚡ Fun fact: I act like I know what I'm doing, but really I'm just Googling errors.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shaig-mahmudov&color=blueviolet)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shaig-mahmudov&theme=radical)
 
 - **Technologies**
 
