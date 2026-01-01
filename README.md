@@ -1,6 +1,6 @@
 ## Hi there 👋! I'm Shaig
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=I+am+a+passionate+Backend+Developer;Tech+Enthusiast)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=I+am+a+passionate+Backend+Developer;and+Tech+Enthusiast)
 
 
 
