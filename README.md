@@ -8,8 +8,7 @@
 - 🔭 **Current Goal:** Mastering Algorithms and Data Structures.
 - 🌱 **Learning:** .Net Ecosystem, Mobile Development
 - 💼 **Open to:** Internships and entry-level opportunities.
-[- 💬 **Ask me about:** If you need anything, do not hesitate to ask someone else.
-- ⚡ **Fun fact:** I act like I know what I'm doing, but .](url)
+- 💬 **Ask me about:** If you need anything, do not hesitate to ask me.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shaig-mahmudov&color=blueviolet)
 
