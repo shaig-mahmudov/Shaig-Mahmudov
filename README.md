@@ -64,15 +64,6 @@ My main interests are REST API development, authentication and authorization sys
 
 
 
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaig-mahmudov&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
-
-
 ### 🐍 Contribution Snake
 
 <p align="center">
