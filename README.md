@@ -63,11 +63,14 @@ My main interests are REST API development, authentication and authorization sys
 ![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
 
+
+
 ### 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaig-mahmudov&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" />
 </p>
+
 
 
 ### 🐍 Contribution Snake
