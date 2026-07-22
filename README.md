@@ -70,7 +70,13 @@ A lightweight CLI for repeatable HTTP requests, assertions, retries, monitoring,
 
 ## Focus
 
-`Backend Systems` · `Developer Tooling` · `Reliability Engineering` · `Static Analysis` · `API Security` · `Domain-Driven Design`
+![Backend Systems](https://img.shields.io/badge/Backend_Systems-1F2937?style=flat-square)
+![Developer Tooling](https://img.shields.io/badge/Developer_Tooling-374151?style=flat-square)
+![Reliability Engineering](https://img.shields.io/badge/Reliability_Engineering-4B5563?style=flat-square)
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-0F766E?style=flat-square)
+![Static Analysis](https://img.shields.io/badge/Static_Analysis-5A29E4?style=flat-square)
+![API Security](https://img.shields.io/badge/API_Security-DC2626?style=flat-square)
+![Domain--Driven Design](https://img.shields.io/badge/Domain--Driven_Design-7C3AED?style=flat-square)
 
 ## Stack
 
