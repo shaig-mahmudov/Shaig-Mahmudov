@@ -1,71 +1,216 @@
-## Hi there 👋! I'm Shaig
+<div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=700&lines=Backend+Engineer;Java+21+%7C+Spring+Boot+%7C+Spring+Security;Building+Secure+and+Scalable+Backend+Systems)
+# Shaig Mahmudov
 
+### Backend Engineer · Developer Tools · Reliability Engineering
 
+I build backend systems, developer tools, and infrastructure-oriented software using Java, Go, Rust, Python, and TypeScript.
 
-### 👨‍💻 About Me
+[Projects](#featured-projects) · [Engineering Focus](#engineering-focus) · [Contact](#contact)
 
-I am an aspiring **Backend Engineer** focused on building clean, secure, and scalable backend applications using **Java**, **Spring Boot**, and modern backend technologies.
+</div>
 
-My main interests are REST API development, authentication and authorization systems, database design, Docker-based development environments, and clean backend architecture.
+---
 
-- 🔭 **Current Focus:** Java Backend Development with Spring Boot
-- 🌱 **Currently Improving:** Data Structures & Algorithms, Spring Security, Docker, and System Design
-- 🔐 **Interested in:** JWT Authentication, RBAC, API Security, and Backend Architecture
-- 🧩 **Core Areas:** REST APIs, Databases, ORM, Authentication, Authorization, and Clean Code
-- 💼 **Open to:** Internship and Junior Backend Engineer opportunities
-- 🎯 **Goal:** Building production-ready backend systems with strong engineering fundamentals
+## About Me
 
-![Profile Views](https://komarev.com/ghpvc/?username=shaig-mahmudov&color=blueviolet)
+I am a backend-focused software engineer interested in systems that involve more than standard CRUD operations.
 
+My work currently focuses on:
 
+* Developer tooling and code intelligence
+* Backend reliability and failure testing
+* Java and Spring Boot systems
+* Go-based infrastructure tools
+* Rust-based local developer tools
+* AI-assisted backend infrastructure
+* Static analysis and Model Context Protocol integrations
+* Domain-driven and modular system design
 
-### 🛠️ Tech Stack
+I enjoy designing system boundaries, modelling failure scenarios, defining contracts, and building tools that help other developers understand or test complex systems.
 
-#### Core Backend
-![Java](https://img.shields.io/badge/Java%2021-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+## Currently Working On
 
-#### Persistence & ORM
-![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![JPQL](https://img.shields.io/badge/JPQL-336791?style=for-the-badge)
+* **Graphine** — a local-first code-intelligence and MCP foundation for Java and Spring Boot repositories
+* **Wreckr** — a production scenario testing platform for backend systems
+* **Loopin** — an event discovery and small-group matching platform
+* **autoreq** — a command-line HTTP client for repeatable requests, assertions, monitoring, and history
 
-#### Security
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![RBAC](https://img.shields.io/badge/RBAC-4B5563?style=for-the-badge)
-![Authentication](https://img.shields.io/badge/Authentication-1F2937?style=for-the-badge)
-![Authorization](https://img.shields.io/badge/Authorization-374151?style=for-the-badge)
+## Featured Projects
 
-#### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+### [Graphine](https://github.com/shaig-mahmudov/graphine)
 
-#### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger/OpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+Local-first code intelligence for Java and Spring Boot repositories.
 
-#### Additional Experience
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+Graphine analyzes repository structure without uploading source code and exposes compact structural context to AI coding agents through MCP.
 
+**Highlights:**
 
+* Rust workspace and CLI
+* Java analysis through Eclipse JDT
+* Spring static-semantics analysis
+* Local SQLite-backed indexes
+* MCP server over STDIO
+* Evidence-backed symbol and endpoint queries
+* Deterministic evaluation and benchmark tooling
+* Explicit uncertainty and unsupported-state handling
 
-### 🐍 Contribution Snake
+**Technologies:** Rust, Java, Eclipse JDT, SQLite, MCP
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shaig-mahmudov/shaig-mahmudov/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+---
+
+### [Wreckr](https://github.com/shaig-mahmudov/wreckr)
+
+A production scenario testing platform designed to break backend systems before production does.
+
+Wreckr simulates failure modes that are difficult to cover with ordinary unit or integration tests.
+
+**Scenarios include:**
+
+* Load spikes
+* Race conditions
+* Duplicate transactions
+* Broken idempotency
+* Retry storms
+* Weak rate limiting
+* Slow dependencies
+* Queue backlogs
+
+**Technologies:** Go, PostgreSQL, Redis, Asynq, Next.js, Docker, k6
+
+---
+
+### [Loopin](https://github.com/the-loopin)
+
+A modular event discovery and group-matching platform.
+
+Loopin helps users discover events, create or join small groups, communicate through real-time chat, and receive semantic event recommendations.
+
+The system is divided into:
+
+* [loopin-api](https://github.com/the-loopin/loopin-api) — Spring Boot backend
+* [loopin-web](https://github.com/the-loopin/loopin-web) — Next.js web application
+* [loopin-ai](https://github.com/the-loopin/loopin-ai) — FastAPI embedding and reranking service
+
+**Technologies:** Java, Spring Boot, PostgreSQL, Redis, pgvector, Python, FastAPI, Next.js
+
+---
+
+### [autoreq](https://github.com/shaig-mahmudov/autoreq)
+
+A lightweight developer CLI for sending, repeating, inspecting, and monitoring HTTP requests.
+
+**Features include:**
+
+* HTTP method shortcuts
+* Headers, query parameters, and request bodies
+* Bearer and basic authentication
+* Request assertions
+* Retries and repeat modes
+* Until-pass and until-fail execution
+* SQLite request history
+* Saved requests, environments, and collections
+* JSON and CSV history export
+
+**Technologies:** Go, SQLite
+
+## Engineering Focus
+
+### Backend Systems
+
+* Java and Spring Boot
+* REST API design
+* Authentication and authorization
+* PostgreSQL and relational modelling
+* Redis
+* WebSocket, STOMP, and real-time communication
+* Background processing
+* Rate limiting
+* API security
+
+### Developer Tooling
+
+* Command-line applications
+* Static code analysis
+* Repository indexing
+* Model Context Protocol servers
+* Local-first tools
+* Structured evidence retrieval
+* Benchmark and evaluation systems
+
+### Reliability
+
+* Idempotency
+* Race-condition testing
+* Retry behaviour
+* Load and spike testing
+* Bounded concurrency
+* Queue overload protection
+* Readiness and liveness checks
+* Observability and metrics
+* Graceful dependency failure
+
+### Architecture
+
+* Domain-Driven Design
+* Hexagonal Architecture
+* Modular monoliths
+* Service boundaries
+* Event-driven design
+* CQRS concepts
+* Explicit contracts and invariants
+
+## Technology Stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square\&logo=go\&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square\&logo=rust\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+
+### Backend and Data
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square\&logo=sqlite\&logoColor=white)
+
+### Infrastructure and Tooling
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square\&logo=apachemaven\&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=nextdotjs\&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square\&logo=prometheus\&logoColor=white)
+
+## How I Approach Engineering
+
+I prefer systems with:
+
+* Clear ownership boundaries
+* Explicit contracts
+* Measurable behaviour
+* Reproducible tests
+* Controlled failure modes
+* Honest documentation
+* Secure defaults
+* Minimal hidden behaviour
+
+I am especially interested in understanding how a system behaves when dependencies slow down, requests are duplicated, queues fill up, connections are interrupted, or assumptions stop being true.
+
+## Contact
+
+* GitHub: [@shaig-mahmudov](https://github.com/shaig-mahmudov)
+* Website: [shaig.dev](https://shaig.dev)
+* Email: [mahmudovshaig@gmail.com](mailto:mahmudovshaig@gmail.com)
+
+---
+
+<div align="center">
+
+Building tools and backend systems with an emphasis on reliability, structure, and clear engineering boundaries.
+
+</div>
